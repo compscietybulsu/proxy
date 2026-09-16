@@ -4,6 +4,6 @@
   "main": "index.js",
   "compatibility_date": "2026-09-16",
   "vars": {
-    "TARGET_URL": "https://website.cssbulsu.workers.dev"
+    "TARGET_URL": ""
   }
 }

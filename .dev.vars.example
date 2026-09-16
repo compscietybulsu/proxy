@@ -1,2 +1,3 @@
-# Target upstream URL to proxy requests to
-TARGET_URL=https://website.cssbulsu.workers.dev
+# Optional: Override TARGET_URL for local development if needed.
+# (Uncommented entries in this file are prompted as secrets by the Deploy button).
+# TARGET_URL=https://website.cssbulsu.workers.dev
