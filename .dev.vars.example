@@ -1,0 +1,2 @@
+# Target upstream URL to proxy requests to
+TARGET_URL=https://website.cssbulsu.workers.dev
