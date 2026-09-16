@@ -12,9 +12,9 @@ Pointing a custom domain or Worker across different Cloudflare accounts directly
 
 Set the upstream target destination using the `TARGET_URL` environment variable in `wrangler.jsonc` or via the Cloudflare dashboard:
 
-| Variable | Description | Default |
+| Variable | Description | Required |
 |---|---|---|
-| `TARGET_URL` | Upstream destination URL to proxy requests to | `https://website.cssbulsu.workers.dev` |
+| `TARGET_URL` | Upstream destination URL to proxy requests to | Yes |
 
 ## Local Development
 
